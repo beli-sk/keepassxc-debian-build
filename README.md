@@ -11,5 +11,5 @@ Usage
       -e UPSTREAM_VERSION=<upstream_version> \
       -e DEBIAN_RELEASE=<debian_release> \
       -e GITHUB_TAG=<github_tag> \
-      keepassx
+      keepassxc_build
 
